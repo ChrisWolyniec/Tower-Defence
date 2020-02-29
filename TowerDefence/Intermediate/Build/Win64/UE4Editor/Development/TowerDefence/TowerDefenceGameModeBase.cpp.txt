@@ -1,0 +1,7 @@
+D:\Desktop\Tower Defence\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\Definitions.TowerDefence.h
+d:\desktop\tower defence\towerdefence\source\towerdefence\TowerDefenceGameModeBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Desktop\Tower Defence\TowerDefence\Intermediate\Build\Win64\UE4Editor\Inc\TowerDefence\TowerDefenceGameModeBase.generated.h
