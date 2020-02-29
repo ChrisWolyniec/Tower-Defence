@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Desktop\\Tower Defence\\TowerDefence\\Source\\TowerDefence\\TowerDefence.Build.cs",
-		"D:\\Desktop\\Tower Defence\\TowerDefence\\Source\\TowerDefence.Target.cs",
-		"D:\\Desktop\\Tower Defence\\TowerDefence\\Source\\TowerDefenceEditor.Target.cs"
+		"F:\\Github\\Tower-Defence\\TowerDefence\\Source\\TowerDefence\\TowerDefence.Build.cs",
+		"F:\\Github\\Tower-Defence\\TowerDefence\\Source\\TowerDefence.Target.cs",
+		"F:\\Github\\Tower-Defence\\TowerDefence\\Source\\TowerDefenceEditor.Target.cs"
 	],
 	"EngineVersion": "4.24.3"
 }
