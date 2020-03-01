@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TowerDefence.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{BF875B35-F311-4679-8245-BF3226826596}</UniqueIdentifier>
+      <UniqueIdentifier>{CE59D9C0-F20C-4E78-B78F-E9085BBB1622}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TowerDefence.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{1E7D4B15-3F0F-48D5-B860-774802EFA78C}</UniqueIdentifier>
+      <UniqueIdentifier>{9C357F51-1DF3-40C4-AA98-5F730CD083D1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,8 +24,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TowerDefence">
-      <UniqueIdentifier>{560F9CA5-77CC-4714-9E39-0371BC2D7679}</UniqueIdentifier>
+      <UniqueIdentifier>{1885288E-E631-42DC-B569-391AAC749984}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TowerDefence\CameraBase.cpp">
+      <Filter>Source\TowerDefence</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TowerDefence\CameraBase.h">
+      <Filter>Source\TowerDefence</Filter>
+    </ClInclude>
     <None Include="..\..\Source\TowerDefence\TowerDefence.Build.cs">
       <Filter>Source\TowerDefence</Filter>
     </None>
@@ -41,5 +47,33 @@
     <ClInclude Include="..\..\Source\TowerDefence\TowerDefenceGameModeBase.h">
       <Filter>Source\TowerDefence</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\TowerDefence\PlayerCharacter.h">
+      <Filter>Source\TowerDefence</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TowerDefence\MyPlayerController.h">
+      <Filter>Source\TowerDefence</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TowerDefence\TDCameraPawn.h">
+      <Filter>Source\TowerDefence</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\TowerDefence\TDCameraController.h">
+      <Filter>Source\TowerDefence</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\TowerDefence\PlayerCharacter.cpp">
+      <Filter>Source\TowerDefence</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TowerDefence\MyPlayerController.cpp">
+      <Filter>Source\TowerDefence</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TowerDefence\TDCameraPawn.cpp">
+      <Filter>Source\TowerDefence</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TowerDefence\TDCameraController.cpp">
+      <Filter>Source\TowerDefence</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

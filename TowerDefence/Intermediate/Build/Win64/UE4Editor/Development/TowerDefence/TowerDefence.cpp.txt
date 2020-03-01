@@ -1,2 +1,0 @@
-D:\Desktop\Tower Defence\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\Definitions.TowerDefence.h
-d:\desktop\tower defence\towerdefence\source\towerdefence\TowerDefence.h
