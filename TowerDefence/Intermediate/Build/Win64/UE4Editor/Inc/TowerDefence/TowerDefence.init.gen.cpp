@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeTowerDefence_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xFFCC7610,
-				0xF3CBE4B2,
+				0x019D7BE5,
+				0x53E2D8B4,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

@@ -7,8 +7,10 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "F:\Github\Tower-Defence\TowerDefence\Intermediate\Build\Win64\TowerDefenceEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\Github\Tower-Defence\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\BaseTower.cpp.obj"
 "F:\Github\Tower-Defence\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\TowerDefence.cpp.obj"
 "F:\Github\Tower-Defence\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\TowerDefenceGameModeBase.cpp.obj"
+"F:\Github\Tower-Defence\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\BaseTower.gen.cpp.obj"
 "F:\Github\Tower-Defence\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\TowerDefence.init.gen.cpp.obj"
 "F:\Github\Tower-Defence\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\TowerDefenceGameModeBase.gen.cpp.obj"
 "F:\Github\Tower-Defence\TowerDefence\Intermediate\Build\Win64\UE4Editor\Development\TowerDefence\Default.rc2.res"

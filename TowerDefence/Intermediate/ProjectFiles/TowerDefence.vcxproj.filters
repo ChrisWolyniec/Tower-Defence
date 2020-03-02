@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TowerDefence.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{295D32EC-B154-4604-8CEB-A815FFD16812}</UniqueIdentifier>
+      <UniqueIdentifier>{B4C02BC1-6543-42B0-9AD0-F0DFB8855010}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TowerDefence.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{9375EA94-707D-4D87-885E-0432298B93FE}</UniqueIdentifier>
+      <UniqueIdentifier>{E1C9A075-3F1E-4067-8321-CDA7E0C84708}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,12 +24,18 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TowerDefence">
-      <UniqueIdentifier>{5EE04F06-216A-4E6A-932E-CA5FEBBB52E4}</UniqueIdentifier>
+      <UniqueIdentifier>{88E273A8-91D3-4788-9749-57CD631EB344}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\TowerDefence\BaseTower.cpp">
       <Filter>Source\TowerDefence</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\TowerDefence\BaseTower.h">
+      <Filter>Source\TowerDefence</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TowerDefence\MyActor.cpp">
+      <Filter>Source\TowerDefence</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TowerDefence\MyActor.h">
       <Filter>Source\TowerDefence</Filter>
     </ClInclude>
     <None Include="..\..\Source\TowerDefence\TowerDefence.Build.cs">
@@ -47,5 +53,6 @@
     <ClInclude Include="..\..\Source\TowerDefence\TowerDefenceGameModeBase.h">
       <Filter>Source\TowerDefence</Filter>
     </ClInclude>
+    <None Include="cpp.hint" />
   </ItemGroup>
 </Project>
